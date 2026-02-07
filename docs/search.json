@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Theory of Computation",
+    "section": "",
+    "text": "Welcome.\nThis is a web-native textbook for an undergraduate Theory of Computation course.\nUse the navigation sidebar to explore.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Book Frontmatter</span>"
+    ]
+  },
+  {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "2  Preface",
+    "section": "",
+    "text": "This book is a work in progress.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "3  Introduction",
+    "section": "",
+    "text": "Content will be added here.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "4  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]

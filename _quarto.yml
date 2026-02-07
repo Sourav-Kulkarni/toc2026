@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Theory of Computation"
+  author: "Sourav Kulkarni"
+  date: "7/2/2026"
+  site-url: https://Sourav-Kulkarni.github.io/toc2026/
+  repo-url: https://github.com/Sourav-Kulkarni/toc2026
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    number-sections: true
+  pdf:
+    documentclass: scrreprt
+  

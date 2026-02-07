@@ -1,0 +1,9 @@
+---
+title: "Book Frontmatter"
+---
+
+Welcome.
+
+This is a web-native textbook for an undergraduate **Theory of Computation** course.
+
+Use the navigation sidebar to explore.
